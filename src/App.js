@@ -2,7 +2,7 @@ import React, { Component, Fragment } from "react";
 import { HashRouter, Switch, Route, withRouter } from "react-router-dom";
 import Header from "./layout/header/header";
 import Footer from "./layout/footer/footer";
-import Index from "./pages/Index/index1";
+
 import "bootstrap/dist/css/bootstrap.min.css";
 import "sweetalert2/src/sweetalert2.scss";
 
